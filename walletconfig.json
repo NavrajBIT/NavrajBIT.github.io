@@ -1,5 +1,5 @@
 {
   "node-backend": "http://192.168.1.6:3000/api/",
-  "cert-backend": "http://192.168.1.6:8000/api/v2/",
+  "cert-backend": "http://localhost:8000/api/v2/",
   "cert-urls": ["https://bitmemoir.com/certificate/"]
 }
