@@ -1,5 +1,6 @@
 {
-  "node-backend": "http://192.168.1.6:3000/api/",
-  "cert-backend": "http://localhost:8000/api/v2/",
+  "node-backend": "https://bitwallet-server.vercel.app/api/",
+  "cert-backend": "http://192.168.1.6:8000/api/v2/",
+  "ws-backend": "ws://192.168.1.6:8000/ws/chat/",
   "cert-urls": ["https://bitmemoir.com/certificate/"]
 }
