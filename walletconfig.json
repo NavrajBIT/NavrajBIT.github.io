@@ -1,5 +1,5 @@
 {
-  "node-backend": "http://13.200.86.140/api/",
+  "node-backend": "https://bitmemoir.org/api/",
   "cert-backend": "https://bitmemoir.com/api/v2/",
   "ws-backend": "wss://bitmemoir.com/ws/chat/",
   "version": "2.0.2",
