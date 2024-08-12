@@ -2,6 +2,6 @@
   "node-backend": "https://bitmemoir.org/api/",
   "cert-backend": "https://bitmemoir.com/api/v2/",
   "ws-backend": "wss://bitmemoir.com/ws/chat/",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "cert-urls": ["https://bitmemoir.com/certificate/"]
 }
