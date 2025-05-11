@@ -1,5 +1,5 @@
 {
-  "node-backend": "https://bitmemoir.org/api/",
+  "node-backend": "https://bitwallet-server.vercel.app/api/",
   "cert-backend": "https://bitmemoir.com/api/v2/",
   "ws-backend": "wss://bitmemoir.com/ws/chat/",
   "version": "3.0.8",
